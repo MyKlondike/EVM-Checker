@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.swp
+.vscode/
+.idea/
+.venv/
+wallets.txt
+web3_balances.csv
