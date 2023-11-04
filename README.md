@@ -11,9 +11,10 @@
 
 - Устанавливаем библиотеки : `pip install -r requirements.txt`
 
-# Donate
-- FeedBacK ADDRESS (evm):  0xe93081718a75818Be2eB1E1336c8c2AC930e44e0
+## Обратная связь
+**Донат 🍩**
+FeedBacK ADDRESS (EVM): `0xe93081718a75818Be2eB1E1336c8c2AC930e44e0`
 
-- Делюсь секретами 💰 : https://t.me/MyKlondike
+[Telegram канал](https://t.me/MyKlondike) **💰**
 
-- Чат для избранных 🗿: https://t.me/Klondike_Talks
+[Чат](https://t.me/Klondike_Talks) **🗿**
